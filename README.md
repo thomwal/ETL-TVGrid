@@ -1,5 +1,5 @@
 # ETL-TVGrid
-Extract TVGrid and Transform it to a JSON then you can use it anywhere
+Extract TVGrid and Transform it to a JSON then you can use it anywhere, then render it as HTML for a better understanding inside the notebook.
 
 ## How to use it
 The best way is to use vscode and the python extension, then you will be able to directly load it from a venv containing the required libs.  
